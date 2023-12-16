@@ -17,6 +17,6 @@ hvp/editor/h5peditor.class.php
 hvp/editor/styles/css/application.css
 ```
 找到以下兩個地方插入程式碼
-![image](https://github.com/frank911127/ncyu_moodle/blob/main/second.png)https://github.com/frank911127/ncyu_moodle/blob/main/second.png)
+![image](https://github.com/frank911127/ncyu_moodle/blob/main/second.png)
 
 
