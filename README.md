@@ -9,7 +9,7 @@ hvp/editor/scripts/h5phide.js
 hvp/editor/h5peditor.class.php
 ```
 找到以下位置，預估在18行上下，插入這樣的程式碼
-![image](https://hackmd.io/_uploads/HJ2QaP9LT.png)
+![image](https://github.com/frank911127/ncyu_moodle/blob/main/index.png)
 
 ## 活動內
 進入
@@ -17,6 +17,6 @@ hvp/editor/h5peditor.class.php
 hvp/editor/styles/css/application.css
 ```
 找到以下兩個地方插入程式碼
-![image](https://hackmd.io/_uploads/SkJzCv9Ua.png)
+![image](https://github.com/frank911127/ncyu_moodle/blob/main/second.png)https://github.com/frank911127/ncyu_moodle/blob/main/second.png)
 
 
